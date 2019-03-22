@@ -1,1 +1,12 @@
-/*Use the .scss file instead!*/
+body {
+    text-align: center;
+    align-content: center;
+  }
+  
+  #colorDIV {
+    width: 400px;
+    height: 400px;
+    background-color: black;
+    margin: 0 auto;
+  }
+  

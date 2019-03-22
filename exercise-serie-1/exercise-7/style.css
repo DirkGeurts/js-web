@@ -1,1 +1,11 @@
 /*Use the .scss file instead!*/
+
+
+
+
+.col-md-12{ height:80w;
+position: relative;
+}
+.btn{
+    position: absolute;
+}
