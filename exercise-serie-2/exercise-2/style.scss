@@ -1,2 +1,17 @@
 //Write your scss here and then compile it to "style.css"....card { 
-    .card {width:18rem}
+    Write your scss here and then compile it to "style.css"...
+
+    h1{
+        font-weight: bold;
+    }
+    .card{
+        width: 18rem;
+        
+        .card-img-top {
+            
+            background: rgb(233, 233, 233);
+            height: 50vh;
+            object-fit: contain;
+        }
+    }
+    
